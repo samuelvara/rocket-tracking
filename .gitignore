@@ -1,0 +1,9 @@
+/yolov5/runs
+/yolov5/data/test
+/yolov5/data/valid
+/yolov5/data/train
+/yolov5/weights
+/yolov5/output
+trials.py
+main.ipynb
+/custom/

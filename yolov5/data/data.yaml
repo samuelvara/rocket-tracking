@@ -1,0 +1,13 @@
+train: ./data/train/images
+val: ./data/valid/images
+test: ./data/test/images
+
+nc: 3
+names: ["Engine Flames", "Rocket Body", "Space"]
+
+roboflow:
+  workspace: nasaspaceflight
+  project: rocket-detect
+  version: 34
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nasaspaceflight/rocket-detect/dataset/34
