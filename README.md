@@ -2,6 +2,7 @@
 
 Using YOLOv5 for detection and DeepSORT for object tracking
 
+Will be setting up an online version of this model.
 
 python main.py
 
